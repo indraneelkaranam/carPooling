@@ -1,0 +1,54 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.6",
+    "@material-ui/core": "^4.6.1",
+    "@material-ui/icons": "^4.5.1",
+    "antd": "^3.24.3",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "datetimepicker": "^0.1.39",
+    "material-ui": "^0.20.2",
+    "material-ui-search-bar": "^0.4.2",
+    "mdbreact": "^4.22.0",
+    "react": "^16.10.2",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.10.2",
+    "react-gesture-gallery": "^1.1.0",
+    "react-gesture-responder": "^2.1.0",
+    "react-load-script": "0.0.6",
+    "react-native": "^0.61.2",
+    "react-native-element": "^1.2.1",
+    "react-native-elements": "^1.2.7",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "^0.11.7",
+    "react-places-autocomplete": "^7.2.1",
+    "react-router": "^3.2.4",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-simple-timefield": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
